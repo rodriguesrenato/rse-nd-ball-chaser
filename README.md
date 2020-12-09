@@ -20,5 +20,8 @@ catkin_make
 source devel/setup.bash
 ```
 Use the .launch files to launch packages.
+* Terminal 1: `roslaunch my_robot world.launch`
+* Terminal 1: `roslaunch ball_chaser ball_chaser.launch`
+
 ## License
 The contents of this repository are covered under the MIT License.
